@@ -43,6 +43,12 @@ Utilizes LINQ for efficient querying and repository pattern for data access.
 
 ---
 
+#### Markdown Note-taking App API
+A RESTful API for uploading Markdown notes, checking grammar, saving them, and rendering into HTML. Includes JWT-based authentication for secure access.
+
+[GitHub Repo](https://github.com/Rawanfx/TakingNoteApp)  
+
+---
 ## 🧩 Problem Solving (LeetCode Solutions)
 
 Practicing algorithmic challenges to improve data structures, algorithms, and problem-solving skills.  
