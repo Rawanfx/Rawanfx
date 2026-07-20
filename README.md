@@ -1,7 +1,7 @@
 # Hi there, I'm Rawan 👋  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR-LINK)  
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge)](https://github.com/YOUR-USERNAME)  
+
 
 ## About Me  
 
