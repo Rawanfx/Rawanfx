@@ -61,5 +61,5 @@ More solutions coming soon!
 
 ## 📬 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR-LINK)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]( https://eg.linkedin.com/in/rawan-sayed-a30b22379)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YOUR-USERNAME)  
