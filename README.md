@@ -11,14 +11,14 @@ I build event-driven backend systems with ASP.NET Core, CQRS, RabbitMQ, and Redi
 
 ## Featured Projects
 
-### [Revisio](#) — AI-Powered Exam Preparation Platform
+### [Revisio](https://github.com/Rawanfx/Revisio)(#) — AI-Powered Exam Preparation Platform
 Clean Architecture backend (.NET 9, CQRS/MediatR) integrated with a Python AI microservice over gRPC. It generates, grades, and explains exam questions grounded in the student's own lecture content using RAG (Qdrant).
 - Async AI question generation via RabbitMQ (MassTransit) + Transactional Outbox
 - Automated grading for MCQ/True-False and AI-graded essays
 - Performance analytics that surface weak topics
 **Stack:** .NET 9, EF Core, SQL Server, RabbitMQ, gRPC, Python, Qdrant, Docker
 
-### [CenterFlow](#) — Educational Center Booking API
+### [CenterFlow](https://github.com/Rawanfx/CenterFlow)(#) — Educational Center Booking API
 REST API for booking sessions with teachers based on availability.
 - Distributed locking (RedLock) to prevent double-booking
 - JWT + ASP.NET Core Identity with role-based access
@@ -26,7 +26,7 @@ REST API for booking sessions with teachers based on availability.
 - 28 unit tests (xUnit, Moq, FluentAssertions)
 **Stack:** ASP.NET Core, CQRS, EF Core, SQL Server, Redis, SignalR, Hangfire
 
-### [DevJob](#) — Job Matching Platform (Graduation Project)
+### [DevJob](https://github.com/Rawanfx/DevJob)(#) — Job Matching Platform (Graduation Project)
 Backend for AI-powered job matching: CV parsing, candidate–job matching, and an AI mock interview system.
 - Google OAuth, email confirmation, password reset
 - Real-time chat and live job updates (SignalR)
