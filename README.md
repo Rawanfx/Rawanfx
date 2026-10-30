@@ -1,65 +1,60 @@
-# Hi there, I'm Rawan 👋  
+# Hi, I'm Rawan 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]( https://eg.linkedin.com/in/rawan-sayed-a30b22379)  
+**.NET Backend Developer** | CS & AI graduate (Beni Suef University, 2026)
 
+I build event-driven backend systems with ASP.NET Core, CQRS, RabbitMQ, and Redis, including distributed locking, background jobs, and gRPC integration with Python AI services.
 
-## About Me  
-
-- 💻 Backend Developer specializing in **.NET**  
-- 🏗️ Experienced in building scalable **Web APIs**  
-- 📨 Exploring **RabbitMQ** & event-driven architectures  
-- 🧩 Passionate about **Problem Solving** (LeetCode)  
-- 📚 Studying **Design Patterns** & Clean Architecture for better system design  
-- 🎯 2025 Goal: Contribute to open-source and build more advanced backend solutions  
+📍 Beni Suef, Egypt (open to relocating to Cairo)
+🎯 Looking for a Backend Developer role (.NET)
 
 ---
 
-## 🛠 Tech Stack  
+## Featured Projects
 
-- **Languages:** C#, SQL, Python (Basics)  
-- **Frameworks:** ASP.NET Core, Entity Framework Core, ADO.NET  
-- **Tools & Platforms:** RabbitMQ, Redis, Git, GitHub, Swagger  
-- **Database:** SQL Server
-- **Concepts:** Web API Development, Design Patterns, Clean Architecture, Networking & OS Fundamentals  
+### [Revisio](#) — AI-Powered Exam Preparation Platform
+Clean Architecture backend (.NET 9, CQRS/MediatR) integrated with a Python AI microservice over gRPC. It generates, grades, and explains exam questions grounded in the student's own lecture content using RAG (Qdrant).
+- Async AI question generation via RabbitMQ (MassTransit) + Transactional Outbox
+- Automated grading for MCQ/True-False and AI-graded essays
+- Performance analytics that surface weak topics
+**Stack:** .NET 9, EF Core, SQL Server, RabbitMQ, gRPC, Python, Qdrant, Docker
 
----
+### [CenterFlow](#) — Educational Center Booking API
+REST API for booking sessions with teachers based on availability.
+- Distributed locking (RedLock) to prevent double-booking
+- JWT + ASP.NET Core Identity with role-based access
+- Real-time notifications (SignalR), Hangfire jobs, email via MailKit
+- 28 unit tests (xUnit, Moq, FluentAssertions)
+**Stack:** ASP.NET Core, CQRS, EF Core, SQL Server, Redis, SignalR, Hangfire
 
-## 🚀 Projects  
-
-### Weather API Wrapper Service  
-A backend service that integrates with a third-party weather API to provide real-time weather data.  
-Implements caching using **Redis** to optimize performance and minimize redundant API calls.  
-
-[GitHub Repo](https://github.com/Rawanfx/WeatherApp-AspNetCore-API)  
-
----
-
-#### Pharmacy API
-A backend API for a pharmacy management system, built with **Clean Architecture**.  
-Features include JWT-based authentication & authorization, product basket handling, and user reviews.  
-Utilizes LINQ for efficient querying and repository pattern for data access.
-
-[GitHub Repo](https://github.com/Rawanfx/PharmacyAPI)  
+### [DevJob](#) — Job Matching Platform (Graduation Project)
+Backend for AI-powered job matching: CV parsing, candidate–job matching, and an AI mock interview system.
+- Google OAuth, email confirmation, password reset
+- Real-time chat and live job updates (SignalR)
+- Background jobs for scraping and recommendations (Hangfire)
+**Stack:** ASP.NET Core 9, EF Core, SQL Server, SignalR, Hangfire, Azure
 
 ---
 
-#### Markdown Note-taking App API
-A RESTful API for uploading Markdown notes, checking grammar, saving them, and rendering into HTML. Includes JWT-based authentication for secure access.
+## Tech Stack
 
-[GitHub Repo](https://github.com/Rawanfx/TakingNoteApp)  
-
----
-## 🧩 Problem Solving (LeetCode Solutions)
-
-Practicing algorithmic challenges to improve data structures, algorithms, and problem-solving skills.  
-
-[GitHub Repo](https://github.com/Rawanfx/leetcode-solutions)
-
-More solutions coming soon!  
+**Languages:** C#, SQL, Python, C++
+**Backend:** ASP.NET Core, EF Core, LINQ, SignalR, gRPC, REST APIs, JWT, ASP.NET Identity, MediatR
+**Architecture:** Clean Architecture, CQRS, Repository & Unit of Work, Event-Driven, Transactional Outbox
+**Messaging & Jobs:** RabbitMQ (MassTransit), Hangfire
+**Data:** SQL Server, Redis, Qdrant
+**Tools:** Git, GitHub, Docker, Postman, Swagger
+**Testing:** xUnit, Moq, FluentAssertions
 
 ---
 
-## 📬 Let's Connect  
+## Other Projects
+- [Pharmacy API](https://github.com/Rawanfx/PharmacyAPI): Clean Architecture, JWT, basket and reviews
+- [Weather API Wrapper](https://github.com/Rawanfx/WeatherApp-AspNetCore-API): Redis caching
+- [Markdown Note-taking API](https://github.com/Rawanfx/TakingNoteApp)
+- [LeetCode Solutions](https://github.com/Rawanfx/leetcode-solutions)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)]( https://eg.linkedin.com/in/rawan-sayed-a30b22379)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YOUR-USERNAME)  
+---
+
+## Let's Connect
+📧 rawanseyed580@gmail.com
+💼 [LinkedIn](https://eg.linkedin.com/in/rawan-sayed-a30b22379)
